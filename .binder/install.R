@@ -1,0 +1,9 @@
+install.packages(
+ c( 
+  "dplyr",
+  "mapview",
+  "readr",
+  "sf",
+  "spatialEco",
+  "tidyr")
+)
